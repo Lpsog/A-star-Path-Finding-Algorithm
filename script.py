@@ -1,7 +1,7 @@
 import pygame
 from constants import *
 # from library import *
-from win32api import GetSystemMetrics
+#from win32api import GetSystemMetrics
 from random import random
 
 
